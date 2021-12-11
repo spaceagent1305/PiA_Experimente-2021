@@ -1,2 +1,2 @@
-# PiA_Experiment-11
+# PiA_Experimente
 Physik Im Advent_Experiment 11
